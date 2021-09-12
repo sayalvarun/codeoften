@@ -3,16 +3,13 @@ title: Get Current Time Python
 type: docs
 ---
 
-# `Python` : Get current time
+# `Python` : Get Current Time
 
-## As `datetime` (without timezone)
+## As `datetime`
 ```python
 from datetime import datetime
 now = datetime.now()
 ```
-
-## As `datetime` with timezone
-
 ## Seconds Since Epoch
 
 ```python

@@ -11,8 +11,5 @@ type: docs
 #include <chrono>
 #include <ctime>    
 
-int main()
-{
-    auto now = std::chrono::system_clock::now();
-}
+auto now = std::chrono::system_clock::now();
 ```

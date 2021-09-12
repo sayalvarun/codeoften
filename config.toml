@@ -1,0 +1,8 @@
+baseURL = 'http://codeoften.com/'
+languageCode = 'en-us'
+title = 'Code Often?'
+
+[params]
+  # (Optional, default light) Sets color theme: light, dark or auto.
+  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+  BookTheme = 'auto'
